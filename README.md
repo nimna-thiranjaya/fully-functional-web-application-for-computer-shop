@@ -1,14 +1,16 @@
 # Fully_Functional_Web_Application_For_Computer_Shop
 
-This Infact solution online computer store system is an endeavor to overcome the present 
+    
+   This Infact solution online computer store system is an endeavor to overcome the present 
 inefficient and time-consuming process of locating and purchasing quality computer part in the 
 store 
-The main point of this project was to cover the Infact Solution system as they had no automated 
+   The main point of this project was to cover the Infact Solution system as they had no automated 
 system beforehand. So, our objective was to come up with a computerized framework which 
 would cover up with a advanced framework which would nearly cover up almost all of the 
 functions. Therefore, we have used MERN technology to implement all our functions in the 
 system. Through our automated computer store system, we provide an easy way of searching, 
 reserving, and purchasing of products.
+
 We have covered the following eight functions in this proposed system.
 
   • Product Inventory Management
