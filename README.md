@@ -12,12 +12,19 @@ reserving, and purchasing of products.
 We have covered the following eight functions in this proposed system.
 
   • Product Inventory Management
+  
   • User Account Management
+  
   • Admin Account Management
+  
   • General Information Management
+  
   • Delivery and Distribution Management
+  
   • Product Overview and Feedback Section Management
+  
   • Product Purchase Process Management
+  
   • Advertising and Marketing Management
   
 Above functions were handled by the eight group members during the time period of three 
