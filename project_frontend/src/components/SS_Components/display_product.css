@@ -1,0 +1,16 @@
+.customPagination {
+   position: fixed;
+   bottom: 0;
+}
+
+#sa_image {
+   height: 220px;
+   width: 220px;
+   border-radius: 50%;
+   border: 5px solid #272133;
+   margin-top: 20px;
+   box-shadow: 0 20px 50px rgba(235, 25, 110, 1);
+ 
+ 
+ 
+ }

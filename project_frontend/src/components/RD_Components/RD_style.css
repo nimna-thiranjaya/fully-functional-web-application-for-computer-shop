@@ -1,0 +1,163 @@
+
+/* .Rbody {
+    background-color: #f9f9fa
+}
+
+.Rpadding {
+    padding: 3rem !important
+}
+
+.Ruser-card-full {
+    overflow: auto
+}
+
+.Rcard {
+    border-radius: 5px;
+    -webkit-box-shadow: 0 1px 20px 0 rgba(69, 90, 100, 0.08);
+    box-shadow: 0 1px 20px 0 rgba(69, 90, 100, 0.08);
+    border: none;
+    margin-bottom: 30px
+}
+
+.Rm-r-0 {
+    margin-right: 0px
+}
+
+.Rm-l-0 {
+    margin-left: 0px
+}
+
+.Ruser-card-full .user-profile {
+    border-radius: 5px 0 0 5px
+}
+
+.Rbg-c-lite-green {
+    background: -webkit-gradient(linear, left top, right top, from(#f29263), to(#ee5a6f));
+    background: linear-gradient(to right, #ee5a6f, #f29263)
+}
+
+.Ruser-profile {
+    padding: 20px 0
+}
+
+.Rcard-block {
+    padding: 1.25rem
+}
+
+.Rm-b-25 {
+    margin-bottom: 25px
+}
+
+.Rimg-radius {
+    border-radius: 5px
+}
+
+.RDh6 {
+    font-size: 40px
+}
+
+.RDh5{
+    font-size: 20px;
+}
+.card .card-block p {
+    line-height: 30px
+}
+
+@media only screen and (min-width: 2000px) {
+    p {
+        font-size: 14px
+    }
+}
+
+.Rcard-block {
+    padding: 1.25rem
+}
+
+.Rb-b-default {
+    border-bottom: 1px solid #ac4343
+}
+
+.Rm-b-20 {
+    margin-bottom: 20px
+}
+
+.Rp-b-5 {
+    padding-bottom: 5px !important
+}
+
+.Rcard .card-block p {
+    line-height: 25px
+}
+
+.m-b-10 {
+    margin-bottom: 10px
+}
+
+.Rtext-muted {
+    color: #e0e0f3 !important
+}
+
+.Rb-b-default {
+    border-bottom: 1px solid #e0e0e0
+}
+
+.Rf-w-600 {
+    font-weight: 600
+}
+
+.Rm-b-20 {
+    margin-bottom: 20px
+}
+
+.Rm-t-40 {
+    margin-top: 20px
+}
+
+.Rp-b-5 {
+    padding-bottom: 5px !important
+}
+
+.Rm-b-10 {
+    margin-bottom: 10px
+}
+
+.Rm-t-40 {
+    margin-top: 20px
+}
+
+.Ruser-card-full .social-link li {
+    display: inline-block
+}
+
+.Ruser-card-full .social-link li a {
+    font-size: 30px;
+    margin: 0 10px 0 0;
+    -webkit-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out
+}
+
+/* input:invalid{
+    
+    color:red;
+    font-weight: bold;
+    font-size: large;
+    background-color:rgb(253, 253, 253);
+    box-shadow:0 0 0 1px rgb(248, 62, 62);
+  }
+  */
+  /* .Rlabel {
+    display: block;
+    margin: 1px;
+    padding: 1px;
+  } */
+
+  #randy{
+
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: normal;
+    font-weight:lighter;
+    font-weight:bold;
+    font: weight 4px;
+
+}
+ 
