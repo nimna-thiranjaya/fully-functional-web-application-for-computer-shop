@@ -10,14 +10,16 @@ functions. Therefore, we have used MERN technology to implement all our function
 system. Through our automated computer store system, we provide an easy way of searching, 
 reserving, and purchasing of products.
 We have covered the following eight functions in this proposed system.
-• Product Inventory Management
-• User Account Management
-• Admin Account Management
-• General Information Management
-• Delivery and Distribution Management
-• Product Overview and Feedback Section Management
-• Product Purchase Process Management
-• Advertising and Marketing Management
+
+  • Product Inventory Management
+  • User Account Management
+  • Admin Account Management
+  • General Information Management
+  • Delivery and Distribution Management
+  • Product Overview and Feedback Section Management
+  • Product Purchase Process Management
+  • Advertising and Marketing Management
+  
 Above functions were handled by the eight group members during the time period of three 
 months and managed to drag through and an ethical framework was made with all the 
 functioning properties. There were numerous resources used in this process and lot of hard work 
